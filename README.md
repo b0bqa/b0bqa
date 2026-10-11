@@ -50,6 +50,8 @@ High school junior in Southern California. I'm a student researcher and competit
       <img src="https://img.shields.io/badge/Bash-2B2B2B?style=flat-square&logo=gnubash&logoColor=F7C948" alt="Bash" />
       <img src="https://img.shields.io/badge/Networking-2B2B2B?style=flat-square" alt="Networking" />
       <br><br>
+      <i>Linux/Windows hardening scripts kept private for competition. Available on request.</i>
+      <br><br>
       ▸ Southern Section & California FBLA
     </td>
   </tr>
