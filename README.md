@@ -37,7 +37,7 @@ High school junior in Southern California. I'm a student researcher and competit
       <img src="https://img.shields.io/badge/KITTI-2B2B2B?style=flat-square" alt="KITTI" />
       <img src="https://img.shields.io/badge/CIFAR--10-2B2B2B?style=flat-square" alt="CIFAR-10" />
       <br><br>
-      ▸ Cal Poly Pomona · CalCyAIVR Research Internship
+      ▸ <a href="https://github.com/b0bqa/rw-asr">Repo</a> &nbsp;·&nbsp; Cal Poly Pomona · CalCyAIVR Research Internship
     </td>
   </tr>
   <tr>
